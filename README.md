@@ -1,8 +1,8 @@
-# Projet de Prédiction VO2max
+# Projet de prédiction VO2max
 
 Ce projet vise à développer des modèles d'apprentissage automatique pour prédire la VO2max (consommation maximale d'oxygène) à partir de données d'activité physique.
 
-## Structure du Projet
+## Structure du projet
 
 ```
 ├── data/
